@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntrView": {
+      "commandName": "Project",
+      "commandLineArgs": "mem.bin"
+    }
+  }
+}
